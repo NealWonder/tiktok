@@ -5,4 +5,4 @@
 sgmodule文件适用于Surge,Shadowrocket
 conf   	文件适用于圈X
 plugin 	文件适用于Loon
-搬自 ClydeTime https://github.com/ClydeTime
+搬自 <a href="https://github.com/ClydeTime">#ClydeTime</a>
